@@ -1,0 +1,3 @@
+C:/Users/Petro/CLionProjects/TaskFolder/cmake-build-debug/CMakeFiles/TaskFolder.dir
+C:/Users/Petro/CLionProjects/TaskFolder/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Petro/CLionProjects/TaskFolder/cmake-build-debug/CMakeFiles/rebuild_cache.dir
